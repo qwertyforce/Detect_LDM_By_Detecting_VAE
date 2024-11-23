@@ -1,4 +1,4 @@
-# Detect_LDM_By_Detecting_VAE
+# Detecting AutoEncoder is Enough to Catch LDM Generated Images
 https://arxiv.org/abs/2411.06441
   
 Code and Models for Detecting AutoEncoder is Enough to Catch LDM Generated Images
